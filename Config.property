@@ -1,0 +1,9 @@
+ChromeDriver=F:\\Drivers\\chromedriver.exe
+
+FireFoxDriver=F:\\Drivers\\geckodriver.exe
+
+MSEdge=F:\\Drivers\\msedgedriver.exe
+
+URL=https://www.tendable.com/
+
+
